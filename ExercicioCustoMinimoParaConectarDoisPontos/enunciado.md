@@ -1,3 +1,6 @@
+
+Link: https://leetcode.com/problems/min-cost-to-connect-all-points/
+
 1584. Custo Mínimo para Conectar Todos os Pontos
 
 Dificuldade: Média
