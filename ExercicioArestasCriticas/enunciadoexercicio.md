@@ -1,3 +1,5 @@
+link: https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
+
 1489. Encontrar Arestas Críticas e Pseudo-Críticas em uma Árvore Geradora Mínima
 Dificuldade: Difícil
 
@@ -49,3 +51,4 @@ edges[i].length == 3
 1 <= weighti <= 1000
 
 Todos os pares (ai, bi) são distintos.
+
