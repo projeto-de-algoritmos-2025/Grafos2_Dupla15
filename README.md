@@ -33,6 +33,18 @@ Repositório destinado ao trabalho de grafos 2 da disciplina de Projeto de Algor
 ![alt text](assets/image.png)
 
 [Exércicio 1568 - Minumum Number Of Days To Disconnect Island - Difícil](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=problem-list-v2&envId=strongly-connected-component)
+
+---
+<img width="1346" height="557" alt="image" src="https://github.com/user-attachments/assets/a78064de-caa5-49c8-aba8-34dda3325a97" />
+
+Segundo exercício (Difícil) - Find Critical and PseudoCritical Edges in Minimum Spaning Tree
+(https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
+---
+
+<img width="1318" height="545" alt="image" src="https://github.com/user-attachments/assets/10f9048f-481e-44b9-83b8-6132193b8002" />
+
+Terceiro exercício (Médio) - 1584. Min Cost to Connect All Points 
+(https://leetcode.com/problems/min-cost-to-connect-all-points/)
 ---
 
 ### Linguagem
