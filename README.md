@@ -26,9 +26,17 @@ Repositório destinado ao trabalho de grafos 2 da disciplina de Projeto de Algor
 ---
 ### Aprensentação
 
----
+
 
 ---
+### Screenshots de submissões
+![alt text](assets/image.png)
+
+[Exércicio 1568 - Minumum Number Of Days To Disconnect Island - Difícil](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=problem-list-v2&envId=strongly-connected-component)
+---
+
 ### Linguagem
+
+Foram utilizadas as linguagens `python 3` e `c++`
 
 ---
