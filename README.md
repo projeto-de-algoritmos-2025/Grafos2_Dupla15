@@ -26,7 +26,7 @@ Repositório destinado ao trabalho de grafos 2 da disciplina de Projeto de Algor
 ---
 ### Aprensentação
 
-
+[Link da apresentação](https://unbbr.sharepoint.com/sites/ProjetodeAlgoritmos-Discord2/_layouts/15/stream.aspx?id=%2Fsites%2FProjetodeAlgoritmos%2DDiscord2%2FDocumentos%20Compartilhados%2FGeneral%2FRecordings%2FReuni%C3%A3o%20em%20General%2D20250922%5F212431%2DGrava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ed6a74c6f%2D4051%2D4a8d%2D91fc%2Dac95497d3003) 
 
 ---
 ### Screenshots de submissões
